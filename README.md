@@ -22,5 +22,8 @@ configured a network settings on virrtual box for lan comunication
 #even i can access the firewall web page , only devices which is presnt in lan can access this firewall page
 ![Screenshot (49)](https://github.com/user-attachments/assets/9857c3b5-afb2-4c9d-ba60-05a90ad00425)
 
+--
+--
+## remaining documentation will Update soon
 
 
