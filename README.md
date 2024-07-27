@@ -1,4 +1,20 @@
 # soc-environment
+### Cyber Security Operation Center (CSOC) Environment Project
+**Technologies Used**: VirtualBox, pfSense, Splunk, Ubuntu, Windows
+
+#### Project Details
+- **Firewall Configuration**: Implemented a pfSense firewall to secure the network environment and manage traffic flow.
+- **Virtual Machines**: Set up and configured two virtual machines:
+  - **Splunk Forwarder on Ubuntu**: Deployed the Splunk forwarder on an Ubuntu machine to collect and forward log data.
+  - **Splunk Indexer on Windows**: Configured the Splunk indexer server on a Windows machine to index and store log data for real-time analysis.
+- **Log Management**: Established a comprehensive log management system, enhancing the ability to monitor and analyze security events.
+
+#### Key Achievements
+- Successfully created a virtual CSOC environment focused on efficient log management and security monitoring.
+- Improved threat detection and response capabilities through real-time log indexing and analysis.
+- Demonstrated expertise in using Splunk for log management and cybersecurity operations.
+
+--
 #Netwwork architecture diagram
 ![Screenshot (43)](https://github.com/user-attachments/assets/8c6fcb4f-a729-4f58-8e28-808374c6af9a)
 --
